@@ -19,7 +19,7 @@ The Online Book Store Application is a full-featured ASP.NET Core project develo
   - Price range
 
 ---
-
+ 
 ## 2. User Authentication & Authorization
 
 - User login functionality
